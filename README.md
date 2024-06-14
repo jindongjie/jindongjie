@@ -1,12 +1,3 @@
-### c#
-
-### JavaScript
-
-### Vue
-
-### Rust
-
-### SQL
-
-### ModBus
-
+## Software developer! 
+## Love free software
+### Keep It Simple Stupid~
