@@ -1,5 +1,25 @@
-## Software developer! 
-## Love free software
-### Keep It Simple Stupid~
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jindongjie.jindongjie&right_color=yellow" />
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D8A52D&random=true&width=550&lines=%F0%9F%8C%8F%F0%9F%8C%A4%EF%B8%8F+Welcome+to+the+earth+internet+!%F0%9F%AA%90;I+am+ar0m+~+%F0%9F%8C%91%F0%9F%8C%91" alt="Typing SVG" /></a>
+</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">A beginner software developer</h3>
+
+<br/>
+
+<div align="center">
+Admire some creative open-source projects.
+such as Arch/Gentoo Linux, zrythm, ladybird browser etc...
+
+Keep It Simple Stupid~
+
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  
+</div>
