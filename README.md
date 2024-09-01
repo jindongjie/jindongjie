@@ -16,8 +16,8 @@ Keep It Simple Stupid~
 
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
