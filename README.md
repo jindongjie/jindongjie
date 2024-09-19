@@ -19,10 +19,10 @@ Keep It Simple Stupid~
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <a href="https://github.com/Haltroy">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindongjie&count=10&layout=donut-vertical&theme=transparent" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindongjie&count=10&layout=donut-vertical&theme=gruvbox&border_radius=10" />
 </a>
    <br/>
   
