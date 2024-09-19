@@ -22,7 +22,7 @@ Keep It Simple Stupid~
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <a href="https://github.com/Haltroy">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haltroy&count=10&layout=donut-vertical&theme=transparent" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindongjie&count=10&layout=donut-vertical&theme=transparent" />
 </a>
    <br/>
   
