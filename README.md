@@ -24,6 +24,5 @@ Keep It Simple Stupid~
   <a href="https://github.com/Haltroy">
   <img width=400 height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindongjie&count=10&theme=gruvbox&border_radius=10" />
 </a>
-   <br/>
   
 </div>
