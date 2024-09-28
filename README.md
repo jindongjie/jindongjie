@@ -10,7 +10,7 @@
 
 <div align="center">
 Admire some creative open-source projects.
-such as Arch/Gentoo Linux, zrythm, ladybird browser etc...
+such as Arch/Gentoo Linux, zrythm, avaloniaUi etc...
 
 Keep It Simple Stupid~
 
