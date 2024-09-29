@@ -12,7 +12,7 @@
 Admire some creative open-source projects.
 such as Arch/Gentoo Linux, zrythm, avaloniaUi etc...
 
-Keep It Simple Stupid~
+Keep. It. Simple. Stupid.~
 
 </div>
 
