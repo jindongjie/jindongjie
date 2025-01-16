@@ -10,10 +10,9 @@
 
 <div align="center">
 Admire some creative open-source projects.
-such as Arch/Gentoo Linux, zrythm, avaloniaUi etc...
+such as Gentoo Linux, zrythm, avaloniaUi etc...
 
-Keep. It. Simple. Stupid.~
-
+𝒦𝑒𝑒𝓅. ℐ𝓉. 𝒮𝒾𝓂𝓅𝓁𝑒. 𝒮𝓉𝓊𝓅𝒾𝒹.
 </div>
 
 <br>
