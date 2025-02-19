@@ -18,7 +18,7 @@ such as Gentoo Linux, zrythm, avaloniaUi etc...
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox&count_private=true&show_icons=true&border_radius=10" alt="readme stats" />
   <br/>
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindongjie&count=10&theme=gruvbox&border_radius=10" />
   
