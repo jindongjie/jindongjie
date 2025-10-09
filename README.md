@@ -10,13 +10,13 @@
 
 <div align="center">
 Admire some creative open-source projects.
-such as Gentoo Linux, zrythm, avaloniaUi etc...
+Such as Gentoo Linux, Zrythm, AvaloniaUI etc...
 
 𝒦𝑒𝑒𝓅. ℐ𝓉. 𝒮𝒾𝓂𝓅𝓁𝑒. 𝒮𝓉𝓊𝓅𝒾𝒹.
 </div>
 
 <br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <div align=center>
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=jindongjie&theme=gruvbox&count_private=true&show_icons=true&border_radius=10" alt="readme stats" />
   <br/>
