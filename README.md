@@ -23,3 +23,6 @@ Such as Gentoo Linux, Zrythm, AvaloniaUI etc...
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindongjie&count=10&theme=gruvbox&border_radius=10" />
   
 </div>
+<div align="center">
+<a href="https://app.daily.dev/ar0m"><img src="https://api.daily.dev/devcards/v2/rWZOrL7aN8EfLSLFAQQon.png?type=wide&r=c4g" width="400" alt="ar0m's Dev Card"/></a>
+</div>
